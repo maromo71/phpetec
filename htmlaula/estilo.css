@@ -1,0 +1,29 @@
+h1{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    display: block;
+    margin-top: 10px;
+}
+h2{
+    padding: 10px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lavenderblush;
+    display: block;
+    margin-top: 10px;
+}
+.conteudo{
+    background-color: lightblue;
+}
+.botoes{
+    margin: 10px 10px 10px 10px;
+    background-color: lightskyblue;
+}
+.paragrafodiferente{
+    font-family: fantasy;
+    font-size: xx-large;
+}
