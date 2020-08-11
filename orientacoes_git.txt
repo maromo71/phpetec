@@ -1,0 +1,39 @@
+Orientação para os alunos em 11 de agosto
+
+Preparar o ambiente:
+
+Passo 1:
+Baixar a Ferramenta git
+https://git-scm.com/
+
+Passo 2:
+Criar conta no github
+https://github.com/
+
+Passo 3:
+Criar um repositório no GitHub
+
+Passo 4:
+Sincronizar o repositório do GitHub na sua máquina
+
+para clonar:
+git clone https://github.com/usuario/repositorio
+
+para adicionar arquivos:
+git add .
+Onde . significa todos
+
+para commit
+git commit -m "Mensagem referente ao commit "
+
+para enviar finalmente
+git push
+
+para atualizar o repositorio local
+git pull
+
+
+========= Só se pedir....
+git config --global user.name "nomeusuario"
+git config --global user.email "email@quevocescriaram.com"
+
